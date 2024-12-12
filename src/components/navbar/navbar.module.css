@@ -19,6 +19,7 @@ font-weight: bold;
 
 .links{
     display: flex;
+    align-items: center;
     gap: 20px;
     flex: 1;
     font-size: 1.2rem;
